@@ -1,0 +1,54 @@
+Package Controller
+Class Controller
+
+Package Dao
+Class BbsDao
+Interface BbsDaoImpl
+Class MemberDaoService
+Interface MemberDaoImpl
+Class ReplyDao
+Interface ReplyDaoImpl
+
+Package DB
+Class DBConnection
+Class DBClose
+
+Package Main
+Class MainClass
+
+Package Model
+Class MemberDto
+Class BbsDto
+Class ReplyDto
+
+Package Service
+Class BbsService
+Interface BbsServiceImpl
+Class MemberService
+Interface MemberServiceImpl
+Class ReplyService
+Interface ReplyServiceImpl
+
+Package Singleton
+Class Singleton
+
+Package View
+// 공용
+Class LoginView
+Class JoinAccountView
+Class requestView
+Class chatView
+
+// 유저
+Class User_mainView
+Class User_myPageView
+Class User_searchListView
+Class User_infoView
+Class User_infoUpdateView
+Class User_bListView
+
+// 관리자
+Class Admin_mainView
+Class Admin_userInfoView
+Class Admin_bookListView
+Class Admin_commentListView

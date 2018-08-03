@@ -1,6 +1,8 @@
 
 public class TEST {
 	public static void main(String[] args) {
-		System.out.println("DIDIDIÅ×D¤·½ºÆ®");
+		System.out.println("DIDIDIï¿½ï¿½Dï¿½ï¿½ï¿½ï¿½Æ®");
+		
+		// ëª¨ë‘ì£¼ëª©í•˜ì‹œê¸¸..
 	}
 }

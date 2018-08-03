@@ -75,15 +75,15 @@ public class loginView extends JFrame implements ActionListener {
 		
 		Singleton s = Singleton.getInstance();
 		
-		/*
+		
 		if(btn == logBtn){
-			s.memCtrl.loginAf(idTextF.getText(), pwTextF.getText());		
+			//s.memCtrl.loginAf(idTextF.getText(), pwTextF.getText());		
 		}
 		else if(btn == accountBtn){
 			s.memCtrl.regi();
 		}
 		this.dispose();
-		*/
+		
 	/*	
 		MemberDao dao = MemberDao.getInstance();
 		if(btn == logBtn){

@@ -80,7 +80,7 @@ public class loginView extends JFrame implements ActionListener {
 			//s.memCtrl.loginAf(idTextF.getText(), pwTextF.getText());		
 		}
 		else if(btn == accountBtn){
-			s.memCtrl.regi();
+			//s.memCtrl.regi();
 		}
 		this.dispose();
 		
